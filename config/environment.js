@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'school-board-agenda-alerts',
+    podModulePrefix: 'school-board-agenda-alerts/pods',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
