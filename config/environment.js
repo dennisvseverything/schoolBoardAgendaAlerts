@@ -2,6 +2,16 @@
 
 module.exports = function(environment) {
   var ENV = {
+    materializeDefaults: {
+      modalIsFooterFixed:  false,
+      buttonIconPosition:  'left',
+      loaderSize:          'big',
+      loaderMode:          'indeterminate',
+      modalContainerId:    'materialize-modal-root-element',
+      dropdownInDuration:  300,
+      dropdownOutDuration: 300
+    },
+
     modulePrefix: 'school-board-agenda-alerts',
     podModulePrefix: 'school-board-agenda-alerts/pods',
     environment: environment,

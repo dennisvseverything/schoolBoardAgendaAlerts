@@ -1,1 +1,0 @@
-/Users/dennislanglais/projects/schoolBoardAgendaAlerts/tmp/broccoli_merge_trees-input_base_path-qlnDNJtK.tmp/2/school-board-agenda-alerts/tests/unit/pods/card/model-test.jshint.lint-test.js
