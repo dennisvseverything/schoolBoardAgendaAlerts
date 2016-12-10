@@ -1,0 +1,1 @@
+/Users/dennislanglais/projects/schoolBoardAgendaAlerts/tmp/broccoli_merge_trees-input_base_path-rAC9TVEs.tmp/6/helpers/app-version.js

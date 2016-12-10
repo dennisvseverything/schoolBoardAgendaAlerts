@@ -1,0 +1,3 @@
+define("school-board-agenda-alerts/pods/card/template", ["exports"], function (exports) {
+  exports["default"] = Ember.HTMLBars.template({ "id": "RtVnqGJS", "block": "{\"statements\":[[\"open-element\",\"div\",[]],[\"static-attr\",\"class\",\"card\"],[\"flush-element\"],[\"text\",\"Hello, world!\"],[\"close-element\"],[\"text\",\"\\n\"],[\"append\",[\"unknown\",[\"outlet\"]],false],[\"text\",\"\\n\"]],\"locals\":[],\"named\":[],\"yields\":[],\"blocks\":[],\"hasPartials\":false}", "meta": { "moduleName": "school-board-agenda-alerts/pods/card/template.hbs" } });
+});

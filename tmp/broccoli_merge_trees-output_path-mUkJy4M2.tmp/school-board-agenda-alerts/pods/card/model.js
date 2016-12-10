@@ -1,0 +1,1 @@
+/Users/dennislanglais/projects/schoolBoardAgendaAlerts/app/pods/card/model.js

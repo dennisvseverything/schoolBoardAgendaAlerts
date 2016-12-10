@@ -1,0 +1,1 @@
+/Users/dennislanglais/projects/schoolBoardAgendaAlerts/node_modules/ember-qunit/lib/ember-qunit.js
